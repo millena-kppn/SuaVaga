@@ -87,3 +87,9 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+# ADICIONANDO CONFIGURAÇÕES DE DESENVOLVIMENTO
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path: ^1.8.3
